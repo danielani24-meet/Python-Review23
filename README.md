@@ -16,7 +16,7 @@ Susan, the CEO of Youtube, asks you to create an easier way to access, modify, a
 You have an idea! Why not use Dictionaries? it's going to be super easy to do all of the requirements using them.
 
 1. Create a new Python file, called **`pythonReview.py`**.
-2. In `pythonReview.py`, create a new function called `create_youtube_video`.
+2. In `pythonReview.py`, create a new function called ` `.
     - It should take 2 inputs:
         - `title` 
         -  `description`
